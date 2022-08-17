@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](giphy (1).gif)
+![](giphy(1).gif)
 
 ![](giphy.gif)
 
