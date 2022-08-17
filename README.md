@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](giphy (1).gif)
+
 ![](giphy.gif)
 
 <!--
