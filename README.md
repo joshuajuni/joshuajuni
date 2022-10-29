@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!-- ![](giphy(1).gif) -->
+![](giphy(1).gif)
 
-![](giphy.gif)
+<!-- ![](giphy.gif) -->
 
 <!--
 **joshuajuni/joshuajuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
